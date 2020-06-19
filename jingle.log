@@ -1,0 +1,3 @@
+[1576:046] Resolving addr in PhysicalSocket::Connect
+[1576:228] Connecting via ipv4
+[1576:448] Signalled with DE_CONNECT: 6
